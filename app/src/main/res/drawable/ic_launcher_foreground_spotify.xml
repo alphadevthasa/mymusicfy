@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Busur bawah (paling lebar) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#141414"
+        android:strokeWidth="10"
+        android:strokeLineCap="round"
+        android:pathData="M30,69 A27.6,27.6 0 0,0 78,69" />
+    <!-- Busur tengah -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#141414"
+        android:strokeWidth="10"
+        android:strokeLineCap="round"
+        android:pathData="M37,54 A19.45,19.45 0 0,0 71,54" />
+    <!-- Busur atas (paling sempit) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#141414"
+        android:strokeWidth="10"
+        android:strokeLineCap="round"
+        android:pathData="M44,39 A11.33,11.33 0 0,0 64,39" />
+</vector>
